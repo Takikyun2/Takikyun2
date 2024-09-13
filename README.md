@@ -46,10 +46,6 @@
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Takikyun2&theme=radical" />
 </p>
 
-<p align="center">
-  ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Takikyun2&show_icons=true)
-</p>
-
 <br/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b51b8b&height=120&section=footer"/>
