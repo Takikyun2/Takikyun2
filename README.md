@@ -10,11 +10,11 @@
 
 - 🔥 Developer.
 
-- 🔭 I’m currently studying and learn
+- 🔭 I’m currently studying and learn.
 
 - 💬 Ask me about **JavaScript, HTML, CSS/SASS/SCSS, JS, React, Node, PHP, Laravel, Electron.js**.
 
-- ⚡ Soon developer.
+- ⚡ Full-stack.
 
 <br><br><br><br><br><br>
 
