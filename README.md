@@ -57,9 +57,9 @@ Sou Técnico em Desenvolvimento de Sistemas (SENAC), atualmente cursando **Anál
 
 <div align="center">
 
-<img src="https://i.imgur.com/4AiXzf8.gif" width="260" style="border-radius: 16px; margin: 10px;"/>
+<img src="[https://i.imgur.com/4AiXzf8.gif](https://i.imgur.com/hCBvu8s.gif)" width="260" style="border-radius: 16px; margin: 10px;"/>
 
-<img src="https://i.imgur.com/dx0J4F9.gif" width="260" style="border-radius: 16px; margin: 10px;"/>
+<img src="[https://i.imgur.com/dx0J4F9.gif](https://i.imgur.com/6bFdjSm.gif)" width="260" style="border-radius: 16px; margin: 10px;"/>
 
 </div>
 
